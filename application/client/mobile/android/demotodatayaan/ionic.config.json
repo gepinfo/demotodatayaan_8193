@@ -1,0 +1,7 @@
+{
+  "name": "demotodatayaan",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
